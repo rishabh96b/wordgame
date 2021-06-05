@@ -19,4 +19,4 @@ jobs:
         go-version: 1.16
 
     - name: Test
-      run: go test -v ./warmup-api/
+      run: go test -v ./wordgame-api/
